@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 codigo.fuente.curso
+codigo.fuente.curso/*
 dist
 dist-ssr
 *.local
